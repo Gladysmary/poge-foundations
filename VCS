@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m"automated"
+git commit -m"all about echo"
 git push
